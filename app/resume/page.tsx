@@ -145,7 +145,7 @@ const skills = {
       name: "typescript",
     },
     {
-      icon: <SiTypescript />,
+      icon: <SiTailwindcss />,
       name: "typescript",
     },
     {
